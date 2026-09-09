@@ -21,4 +21,4 @@ Smart Kiosk v1 was completed by The Kiosk Guys during the Fall 2025 – Spring 2
 9. Reliable Auto Startup after Reboot
 10. Kiosk Mode to keep Users on the Kiosk System
 
-Use this repository as a reference and research guide to gain a better understanding of the project. 
+Use this directory as a reference and research guide to gain a better understanding of the project. 
