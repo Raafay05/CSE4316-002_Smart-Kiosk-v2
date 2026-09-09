@@ -1,0 +1,16 @@
+#Ingore node_modules folder
+node_modules/
+
+#Ignore environment variable files
+.env
+
+#Ignore all log files
+*.log
+
+#May need to update the ingore's below (depends on what programming languages are used.)
+.vscode/
+.idea/
+build/
+dist/
+bin/
+obj/
