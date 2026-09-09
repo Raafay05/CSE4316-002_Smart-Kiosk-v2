@@ -4,9 +4,9 @@ Smart Kiosk v2.0 has been picked up by The Kiosk Guys+ during the Fall 2026 – 
 
 # Contributors
 
-1. Raafay Baig
-2. Sneha Patel
-3. Shofi Shrestha
+1. Raafay Baig - CSE
+2. Sneha Patel - CSE
+3. Shofi Shrestha - CSE
 
 # Project Requirements
 
