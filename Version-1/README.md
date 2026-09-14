@@ -21,4 +21,8 @@ Smart Kiosk v1.0 was completed by The Kiosk Guys during the Fall 2025 – Spring
 9. Reliable Auto Startup after Reboot
 10. Kiosk Mode to keep Users on the Kiosk System
 
+# Spring 26 Smart Kiosk v1.0 Demo
+
+[Watch Smark Kiosk v1.0 Demo](https://youtu.be/l3MOIwdZ4Dc)
+
 Use this directory as a reference and research guide to gain a better understanding of the project. 
