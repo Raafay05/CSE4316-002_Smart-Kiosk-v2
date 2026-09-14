@@ -1,6 +1,7 @@
 # Smart Kiosk v1.0 Documentation & Source Code Reference
 
 Smart Kiosk v1.0 was completed by The Kiosk Guys during the Fall 2025 – Spring 2026 semesters. This project was sponsored by the UTA CSE Department.
+[Visit Smart Kiosk - CSE Senior Design](https://websites.uta.edu/cseseniordesign/2026/04/28/smart-kiosk/)
 
 # Contributors
 1. Miguel Cervantes – CSE
