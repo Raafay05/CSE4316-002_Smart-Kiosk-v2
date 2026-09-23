@@ -8,5 +8,5 @@ Each contain source code, and my assumption is that they are for specific purpos
 
 1. `kioskguys-erb-kiosk-main` - Might be set up for an ERB kiosk that allows user access to the building.
 2. `kioskguys-main` - Main (finalized) source code (probably best for this repository directory).
-3. `kioskguys-Online-Deployment-Branch` - Probably best to run on our local machines and perform changes, tests, and finalize for the kiosk.
+3. `kioskguys-Online-Deployment-Branch` - Probably best to run on our local machines and perform changes, tests, and finalize for the updated kiosk.
 
