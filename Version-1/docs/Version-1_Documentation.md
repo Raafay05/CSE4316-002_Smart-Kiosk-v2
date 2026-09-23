@@ -1,4 +1,8 @@
 # Smart Kiosk v1.0 Documentation
 
-1. Add documentation from Smart Kiosk v1 from UTA CSE Senior Design Projects.
-2. Summarize documentation below for easier reference.
+Documentation is summarized below for easier reference.
+
+1. `sp26_SmartKiosk_Charter` -
+2. `sp26_SmartKiosk_SRS` -
+3. `sp26_SmartKiosk_ADS` -
+4. `sp26_SmartKiosk_DDS` -
